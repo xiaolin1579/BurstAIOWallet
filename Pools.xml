@@ -75,4 +75,14 @@
     <port>8081</port>
     <reward>BURST-PHJ5-JMZP-3EQQ-EAA2B</reward>
   </pool>
+  <pool>
+    <address>pool.burstcoin.asia</address>
+    <port>8080</port>
+    <reward>BURST-WMTB-QRAK-U5GN-4BX8Y</reward>
+  </pool>
+  <pool>
+    <address>fastpool.info</address>
+    <port>8080</port>
+    <reward>BURST-YMJP-8NNG-6HCJ-29XYJ</reward>
+  </pool>
 </NewDataSet>
